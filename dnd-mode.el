@@ -347,4 +347,5 @@
                                             (message "Dnd Mode is Off!"))))
 
 (provide 'dnd-mode)
+(provide 'dnd)
 ;;; dnd.el ends here
